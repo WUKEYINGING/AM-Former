@@ -1,0 +1,14 @@
+fvcore==0.1.5.post20221221
+hdf5storage==0.2.2
+matplotlib==3.10.7
+numpy==2.3.5
+opencv_python==4.12.0.88
+pandas==2.3.3
+Pillow==12.0.0
+scikit_learn==1.7.2
+scipy==1.16.3
+seaborn==0.13.2
+scikit-image==0.0
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+yacs==0.1.8
